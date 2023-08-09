@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Manali, Himachal Pradesh - Lover's Paradise..jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Manali, Himachal Pradesh - Lover's Paradise. 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Manali, Himachal Pradesh - Lover's Paradise. 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
